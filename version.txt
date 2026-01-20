@@ -1,0 +1,2 @@
+version：脉动邮件特快专递 v1.0
+contact：https://t.me/MaiDong
